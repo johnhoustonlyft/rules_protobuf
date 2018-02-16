@@ -6,9 +6,9 @@ DEPS = {
     # from here into 'com_google_grpc'.
     "com_google_grpc_base": {
         "rule": "http_archive",
-        "url": "https://github.com/grpc/grpc/archive/d45132a2e9246b11ddd0b70c07160076d5cbbb12.zip", # Sep 19, 2017 (PR#12571)
-        "sha256": "5963e03382dfef143b1018148d3874453387df1b991720a9d41498957778a8c6",
-        "strip_prefix": "grpc-d45132a2e9246b11ddd0b70c07160076d5cbbb12",
+        "url": "https://github.com/grpc/grpc/archive/ca87867579580928ca4c9fdf97051fa25bf1d386.zip", # Sep 19, 2017 (PR#12571)
+        "sha256": "d3794ca4ff7b12635bd4972bb9478f1d11e478305490b96469eb3a47e50b1768",
+        "strip_prefix": "grpc-ca87867579580928ca4c9fdf97051fa25bf1d386",
     },
 
     "com_google_grpc": {
